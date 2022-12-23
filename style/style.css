@@ -108,6 +108,10 @@ footer a {
 }
 
 @media (max-width: 512px) {
+  body {
+    height: 96vh;
+  }  
+  
   main {
     width: 20rem;
     height: 22rem;
