@@ -1,4 +1,4 @@
-// SELECTORES
+// SELECTORS
 const texto = document.querySelector("main>p");
 const span = document.querySelector("main>h6>span");
 const btn = document.querySelector("button");
